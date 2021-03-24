@@ -1,0 +1,36 @@
+%!Adobe-FontList 1.19
+%Locale:0x404
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMingStd-Light
+FamilyName:Adobe Ming Std
+StyleName:L
+FullName:Adobe Ming Std L
+MenuName:Adobe 明體 Std L
+StyleBits:0
+FamilyNameNative:Adobe 明體 Std
+StyleNameNative:L
+FullNameNative:Adobe 明體 Std L
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Users\user\Desktop\A89R036 黃奇昌\Document fonts\AdobeMingStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:10174084
+FileModTime:1361502894
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Ming Std L
+NameArray:2,Mac,4,Adobe 明體 Std L
+NameArray:2,Win,1,Adobe 明體 Std L
+NameArray:2,Win,16,Adobe 明體 Std
+NameArray:0,Win,1,Adobe Ming Std L
+NameArray:0,Win,16,Adobe Ming Std
+NameArray:2,Win,1,Adobe 明體 Std L
+NameArray:2,Win,16,Adobe 明體 Std
+%EndFont
+
